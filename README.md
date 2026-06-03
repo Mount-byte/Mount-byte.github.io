@@ -1,2 +1,2 @@
-https://mount-byte.github.io
+https://namebyte.github.io
 GitHub Pages测试页
